@@ -1,0 +1,14 @@
+C:\Users\boldy\OneDrive\Рабочий стол\Мастер-класс\TestProject\TestProject\bin\Debug\net6.0\TestProject.exe
+C:\Users\boldy\OneDrive\Рабочий стол\Мастер-класс\TestProject\TestProject\bin\Debug\net6.0\TestProject.deps.json
+C:\Users\boldy\OneDrive\Рабочий стол\Мастер-класс\TestProject\TestProject\bin\Debug\net6.0\TestProject.runtimeconfig.json
+C:\Users\boldy\OneDrive\Рабочий стол\Мастер-класс\TestProject\TestProject\bin\Debug\net6.0\TestProject.dll
+C:\Users\boldy\OneDrive\Рабочий стол\Мастер-класс\TestProject\TestProject\bin\Debug\net6.0\TestProject.pdb
+C:\Users\boldy\OneDrive\Рабочий стол\Мастер-класс\TestProject\TestProject\obj\Debug\net6.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boldy\OneDrive\Рабочий стол\Мастер-класс\TestProject\TestProject\obj\Debug\net6.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\boldy\OneDrive\Рабочий стол\Мастер-класс\TestProject\TestProject\obj\Debug\net6.0\TestProject.AssemblyInfo.cs
+C:\Users\boldy\OneDrive\Рабочий стол\Мастер-класс\TestProject\TestProject\obj\Debug\net6.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\boldy\OneDrive\Рабочий стол\Мастер-класс\TestProject\TestProject\obj\Debug\net6.0\TestProject.dll
+C:\Users\boldy\OneDrive\Рабочий стол\Мастер-класс\TestProject\TestProject\obj\Debug\net6.0\refint\TestProject.dll
+C:\Users\boldy\OneDrive\Рабочий стол\Мастер-класс\TestProject\TestProject\obj\Debug\net6.0\TestProject.pdb
+C:\Users\boldy\OneDrive\Рабочий стол\Мастер-класс\TestProject\TestProject\obj\Debug\net6.0\TestProject.genruntimeconfig.cache
+C:\Users\boldy\OneDrive\Рабочий стол\Мастер-класс\TestProject\TestProject\obj\Debug\net6.0\ref\TestProject.dll
